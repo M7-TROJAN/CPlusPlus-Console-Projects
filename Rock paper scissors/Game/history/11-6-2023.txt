@@ -1,0 +1,65 @@
+
+
+                                              11-6-2023 , 6:12:52PM
+                       ----------------------------------------------------------------------
+                       |                       +++ G A M E   O V E R +++                    |
+                       ----------------------------------------------------------------------
+
+                       ----------------------------- [Game Results] -------------------------
+                       Player Name        :Mahmoud Mattar
+                       Game Rounds        :10
+                       Player   Won Times :4
+                       Computer Won Times :3
+                       Draw Times         :3
+                       Final Winner       :Player
+                       ----------------------------------------------------------------------
+
+
+11-6-2023 , 6:16:30PM
+----------------------------------------------------------------------
+|                       +++ G A M E   O V E R +++                    |
+----------------------------------------------------------------------
+
+----------------------------- [Game Results] -------------------------
+Player Name: MahMoud
+Game Rounds: 10
+Player Won Times: 3
+Computer Won Times: 3
+Draw Times: 4
+Final Winner: Draw (No Winner)
+----------------------------------------------------------------------
+
+
+                     11-6-2023 , 6:17:54PM
+
+----------------------------- [Game Results] -------------------------
+Player Name: 1
+Game Rounds: 1
+Player Won Times: 0
+Computer Won Times: 0
+Draw Times: 1
+Final Winner: Draw (No Winner)
+----------------------------------------------------------------------
+
+
+                         11-6-2023 , 6:18:33PM
+
+----------------------------- [Game Results] -------------------------
+Player Name: Mahmoud
+Game Rounds: 1
+Player Won Times: 0
+Computer Won Times: 0
+Draw Times: 1
+Final Winner: Draw (No Winner)
+----------------------------------------------------------------------
+
+
+                           11-6-2023 | 6:20:1PM
+----------------------------- [Game Results] -------------------------
+Player Name: Mahmoud
+Game Rounds: 10
+Player Won Times: 7
+Computer Won Times: 0
+Draw Times: 3
+Final Winner: Player
+----------------------------------------------------------------------

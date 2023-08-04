@@ -1,0 +1,22 @@
+
+
+                           12-6-2023 | 1:40:30PM
+----------------------------- [Game Results] -------------------------
+Player Name: Mahmoud Mattar
+Game Rounds: 1
+Player Won Times: 0
+Computer Won Times: 0
+Draw Times: 1
+Final Winner: Draw (No Winner)
+----------------------------------------------------------------------
+
+
+                           12-6-2023 | 1:41:20PM
+----------------------------- [Game Results] -------------------------
+Player Name: mahmoud Mattar
+Game Rounds: 10
+Player Won Times: 2
+Computer Won Times: 5
+Draw Times: 3
+Final Winner: Computer
+----------------------------------------------------------------------
