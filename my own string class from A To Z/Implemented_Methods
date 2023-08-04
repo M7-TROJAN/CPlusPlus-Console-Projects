@@ -1,0 +1,75 @@
+## Implemented Methods
+
+Here is a list of methods implemented in the `STR` class:
+
+### String Manipulation and Concatenation
+
+- `STR operator+(const STR &str1, const STR &str2)`: Concatenates two `STR` objects.
+- `STR &operator+=(const STR &str)`: Appends an `STR` object to the current string.
+- `STR &operator+=(char ch)`: Appends a character to the end of the string.
+- `STR &append(const char *newStr)`: Appends a C-style string to the end of the string.
+- `STR &append(const STR &str)`: Appends another `STR` object to the end of the string.
+- `STR &insert(size_t pos, const STR &str)`: Inserts a substring into the string.
+- `STR &replace(const STR &target, const STR &replacement)`: Replaces occurrences of a substring with another substring.
+- `STR &erase(size_t startPos, size_t count = 1)`: Erases characters from the string.
+
+### Case Conversion
+
+- `STR &capitalizeFirstLetterOfEachWord()`: Capitalizes the first letter of each word.
+- `STR &lowercaseFirstLetterOfEachWord()`: Converts the first letter of each word to lowercase.
+- `STR &invertAllStringLettersCase()`: Inverts the case of all letters.
+- `STR &reverse()`: Reverses the order of characters in the string.
+- `STR &reverseWords()`: Reverses the order of words in the string.
+- `STR &removePunctLetters()`: remove all punctuation letters from a the string.
+- `STR &trimLeft()`: Trims leading spaces from the string.
+- `STR &trimRight()`: Trims trailing spaces from the string.
+- `STR &trim()`: Trims leading and trailing spaces from the string.
+
+### Character Manipulation
+
+- `char &operator[](size_t index)`: Accesses characters using the subscript operator.
+- `const char &operator[](size_t index) const`: Const version of the subscript operator.
+- `char &at(size_t index)`: Accesses characters at a specific index.
+- `const char &at(size_t index) const`: Const version of the `at` method.
+- `char invertLetterCase(char ch)`: Inverts the case of a character.
+- `bool isVowel(char ch)`: Checks if a character is a vowel.
+- `char back()`: Returns the last character of the string.
+- `char front()`: Returns the first character of the string.
+
+### String Information
+
+- `size_t length() const`: Returns the length of the string.
+- `bool empty() const`: Checks if the string is empty.
+- `size_t find(const STR &str, size_t pos = 0) const`: Finds the position of a substring.
+- `int countLowerLetters()`: Counts the number of lowercase letters.
+- `int countUpperLetters()`: Counts the number of uppercase letters.
+- `int countSpecificLetter(char target, bool MatchCase = true)`: Counts the occurrences of a specific letter.
+- `int countVowelLetters()`: Counts the number of vowel letters.
+- `size_t countWords()`: Counts the number of words in the string.
+- `bool isAllCaps() const`: Checks if the string contains all capital letters.
+- `bool isAllLower() const`: Checks if the string contains all lowercase letters.
+
+### Substring and C-Style String Operations
+
+- `STR substr(size_t position, size_t length = npos) const`: Extracts a substring from the string.
+- `const char *c_style_str() const`: Returns the C-style string representation.
+- `STR &assign(const char *newStr)`: Assigns a new string to the `STR` object.
+- `void clear()`: Clears the content of the `STR` object and makes it empty.
+
+### Input and Output
+
+- `friend std::ostream &operator<<(std::ostream &os, const STR &str)`: Outputs an `STR` object to an output stream.
+- `friend std::istream &operator>>(std::istream &is, STR &str)`: Reads input from an input stream into an `STR` object.
+
+## Other
+
+- `STR join(const std::vector<STR> &vString, const STR &delimiter = " ") const`: Joins a vector of `STR` objects into a single string using a delimiter.
+- `STR join(const STR arr[], const size_t &arrLength, const STR &delimiter = " ") const`: Joins an array of `STR` objects into a single string using a delimiter.
+- `std::vector<STR> split(const STR &delimiter = " ") const`: Splits the string into words using a delimiter.
+
+
+## Author:
+
+Mahmoud Mohamed
+Email: mahmoud.abdalaziz@outlook.com
+LinkedIn: https://www.linkedin.com/in/mahmoud-mohamed-abd/
