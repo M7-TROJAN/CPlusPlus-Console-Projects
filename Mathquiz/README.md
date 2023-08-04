@@ -76,6 +76,7 @@ This project serves as a programming exercise to demonstrate fundamental coding 
 
 Mahmoud Mohamed
 Email: mahmoud.abdalaziz@outlook.com
+
 LinkedIn: [Mahmoud Mohamed Abdalaziz](https://www.linkedin.com/in/mahmoud-mohamed-abd/)
 
 ## License
