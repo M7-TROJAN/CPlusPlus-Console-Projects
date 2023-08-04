@@ -1,0 +1,22 @@
+New Features:
+-------------
+- Login interface: The program now includes a login interface. To access the main screen, you must enter the username and password
+registered in the database. which is a text file (Flat File Database)
+The user credentials are stored in a text file named "Users.txt" that is attached to the program files.
+
+- User roles and permissions: Each user is assigned a specific role, with the administrator having full capabilities such as editing customers, deleting, adding, and comprehensive control over user data and permissions. Other users may have one or more specific permissions tailored to their role.
+
+- Flexibility to modify user permissions: You can modify user permissions by login as an admin Administrators have the flexibility to modify user permissions either through the program interface or by directly editing the "Users.txt" file. (not recommended) However, it is important to note that manual modification of the file is not recommended. Modifying user permissions through the program interface ensures data integrity and reduces the risk of potential errors. متلعبش في حاجة.
+
+- User data storage: User data is stored in the "Users.txt" file. Each user's information is organized in a structured format using the "##" delimiter to separate the fields.
+
+The File follows the structure:
+
+username##password##permissions
+
+Here's an example of user data stored in the "Users.txt" file:
+admin##admin##-1
+mahmoud##1234##16
+Ahmed##1234##32
+
+In the example above, each line represents a user entry, where the username is followed by the password and permissions associated with that user, all separated by the "##" delimiter.
