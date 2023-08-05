@@ -41,12 +41,31 @@ You can see a list of all methods implemented in the `STR` class from here [list
 3. Include the `str.h` header file in your project to use the custom string class.
 4. Build and compile the source code.
 
+## Usage
+
+To use the `str` class, copy 'STR.h' file to your project folder include the `str.h` header file in your C++ code:
+
+```cpp
+#include "str.h"
+
+int main() {
+    str s = "Hello, World!";
+    
+    // Example usage of methods
+    s.capitalizeFirstLetterOfEachWord();
+    s.lowerAllStringLetters();
+    s.invertAllStringLettersCase();
+    // ... and so on
+    
+    return 0;
+}
+```
 
 ## Examples
 Here are some examples of using the STR class:
 
 # Example1:
-
+```cpp
 #include "str.h"
 #include <iostream>
 
@@ -74,9 +93,9 @@ int main() {
     
     return 0;
 }
-
+```
 # Example2:
-
+```cpp
 #include "str.h"
 #include <iostream>
 
@@ -101,9 +120,9 @@ int main() {
 
     return 0;
 }
-
+```
 # Example3:
-
+```cpp
 #include "str.h"
 #include <iostream>
 using namespace std;
@@ -128,7 +147,7 @@ int main() {
 
     return 0;
 }
-
+```
 ## Code_Review
 
 - The STR class provides functionality similar to the standard std::string class.
@@ -161,23 +180,3 @@ LinkedIn: [Mahmoud Mohamed Abdalaziz](https://www.linkedin.com/in/mahmoud-mohame
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-## Usage
-
-To use the `str` class, copy 'STR.h' file to your project folder include the `str.h` header file in your C++ code:
-
-```cpp
-#include "str.h"
-
-int main() {
-    str s = "Hello, World!";
-    
-    // Example usage of methods
-    s.capitalizeFirstLetterOfEachWord();
-    s.lowerAllStringLetters();
-    s.invertAllStringLettersCase();
-    // ... and so on
-    
-    return 0;
-}
