@@ -9,7 +9,7 @@ using namespace std;
 
 int main()
 {
-    STR str1 = "Mahmoud Mohamed Abdalaziz Mousa Mesbah Mattar";
+    STR str1 = "Mahmoud Mohamed Abdalaziz Mattar";
 
     vector<STR> vec = str1.split();
 
