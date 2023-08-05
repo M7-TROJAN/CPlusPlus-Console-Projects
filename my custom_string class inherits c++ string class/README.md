@@ -45,7 +45,11 @@ int main() {
 }
 ```
 ## Contact
-Author: Mahmoud Mohamed
+For any inquiries or questions, please contact [mahmoud.abdalaziz@outlook.com].
 
-Email: mahmoud.abdalaziz@outlook.com
-LinkedIn: https://www.linkedin.com/in/mahmoud-mohamed-abd/
+Happy coding!
+
+[Mahmoud Mohamed]
+- Email: mahmoud.abdalaziz@outlook.com
+- LinkedIn: [Mahmoud Mohamed Abdalaziz](https://www.linkedin.com/in/mahmoud-mohamed-abd/)
+
