@@ -61,6 +61,10 @@ Feel free to modify and adapt the code to suit your needs. If you have any furth
 
 This project serves as a programming exercise to demonstrate fundamental coding skills. It is not intended for use as a real-world banking application and lacks advanced features and security measures required for production systems.
 
+## very Important Note
+
+The project within this repository serves as a testament to my adeptness in fundamental programming skills and concepts, meticulously crafted to showcase the extent of my capabilities.
+
 ## Author
 
 - Mahmoud Mohamed
