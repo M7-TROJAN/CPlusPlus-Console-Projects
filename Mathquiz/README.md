@@ -72,6 +72,10 @@ Enjoy playing the math quiz game and have fun improving your math skills!
 
 This project serves as a programming exercise to demonstrate fundamental coding skills. It is not intended for use as a real-world Program.
 
+## very Important Note
+
+The project within this repository serves as a testament to my adeptness in fundamental programming skills and concepts, meticulously crafted to showcase the extent of my capabilities.
+
 ## Author
 
 Mahmoud Mohamed
