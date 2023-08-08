@@ -167,15 +167,15 @@ This Custom String Class project is a training exercise designed to demonstrate 
 
 I would like to express my heartfelt gratitude to my teacher, Mohammed Abu-Hadhoud, for his guidance, support, and inspiration throughout the development of this Custom String Class project. His dedication to teaching and commitment to helping his students succeed have been invaluable. Thank you, MR. Mohammed, for your unwavering encouragement and mentorship 🙏❤️.
 
-Teacher: Mohammed Abu-Hadhoud
-LinkedIn: [Mohammed Abu-Hadhoud](https://www.linkedin.com/in/abuhadhoud/)
-Website: [Programming Advices](https://programmingadvices.com/)
+- Teacher: Mohammed Abu-Hadhoud
+- LinkedIn: [Mohammed Abu-Hadhoud](https://www.linkedin.com/in/abuhadhoud/)
+- Website: [Programming Advices](https://programmingadvices.com/)
 
 ## Author
 
-Mahmoud Mohamed
-Email: mahmoud.abdalaziz@outlook.com
-LinkedIn: [Mahmoud Mohamed Abdalaziz](https://www.linkedin.com/in/mahmoud-mohamed-abd/)
+- Mahmoud Mohamed
+- Email: mahmoud.abdalaziz@outlook.com
+- LinkedIn: [Mahmoud Mohamed Abdalaziz](https://www.linkedin.com/in/mahmoud-mohamed-abd/)
 
 ## License
 
