@@ -29,8 +29,8 @@ To execute the project:
 ## Note
 Please ensure that the code is compiled using an appropriate C++ compiler suitable for the respective operating system.
 
-*Note: It is important to show respect and sensitivity to our feelings as Arabs regarding the Palestinian flag and the situation in the region. It is absolutely permissible to underestimate the suffering of the brotherly Palestinian people and the feelings of the Islamic and Arab nation
-May God protect Palestine and grant it victory over its enemies.*
+> **Note**: It is important to show respect and sensitivity to our feelings as Arabs regarding the Palestinian flag and the situation in the region. It is absolutely permissible to underestimate the suffering of the brotherly Palestinian people and the feelings of the Islamic and Arab nation
+May God protect Palestine and grant it victory over its enemies.
 
 ![Palestine Flag](PalestineFlag.png)
 
