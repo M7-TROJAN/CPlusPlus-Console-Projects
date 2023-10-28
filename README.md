@@ -5,12 +5,19 @@ Welcome to my repository showcasing a collection of diverse C++ programming proj
 ## Project List
 
 1. **ATM System Project:** Simulates an Automated Teller Machine (ATM) system with a way, ideas, and execution you've never seen before, I promise 🫶.
+   
 2. **Client Management System Project:** A user-friendly system to manage client information, highlighting data structures, strings handling, Mathematical processing, and file handling.
+   
 3. **Math Quiz Project:** Interactive math quiz game for educational purposes, displaying dynamic input-output handling.
+   
 4. **Rock Paper Scissors Project:** Classic game implementation with user interactions, emphasizing conditional statements and randomization, ideas, and execution you've never seen before, I promise 🫶.
+   
 5. **Date Class Project:** A versatile date manipulation library for handling dates, calculating differences, and more.
+   
 6. **Custom_String Class Project:** Extending C++ string class to create a custom_string class with additional functionalities.
+    
 7. **My Own String Class Project:** Building a string class from scratch, covering string manipulation and memory management.
+    
 8. **FreePalestine Project:**  A console application designed to display the Palestinian flag, symbolizing solidarity and support. This project serves as a visual representation and message of peace, unity, and support for Palestine. It showcases the flag using C++ console output, demonstrating a symbolic gesture within a programming context.
 
 ## Installation and Usage
