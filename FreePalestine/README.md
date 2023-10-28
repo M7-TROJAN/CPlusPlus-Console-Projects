@@ -36,4 +36,8 @@ May God protect Palestine and grant it victory over its enemies.*
 
 ![FreePalestine](FreePalestine.png)
 
-*Author: [Your Name]*
+## Author
+
+- Mahmoud Mohamed
+- Email: mahmoud.abdalaziz@outlook.com
+- LinkedIn: [Mahmoud Mohamed Abdalaziz](https://www.linkedin.com/in/mahmoud-mohamed-abd/)
