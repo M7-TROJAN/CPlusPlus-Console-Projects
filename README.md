@@ -4,13 +4,13 @@ Welcome to my repository showcasing a collection of diverse C++ programming proj
 
 ## Project List
 
-1. **ATM System Project:** Simulates an Automated Teller Machine (ATM) system with a way, ideas, and execution you've never seen before, I promise 🫶.
+1. **ATM System Project:** Offers a comprehensive simulation of an Automated Teller Machine (ATM) with a user-friendly interface and innovative features to manage banking transactions.
    
 2. **Client Management System Project:** A user-friendly system to manage client information, highlighting data structures, strings handling, Mathematical processing, and file handling.
    
 3. **Math Quiz Project:** Interactive math quiz game for educational purposes, displaying dynamic input-output handling.
    
-4. **Rock Paper Scissors Project:** Classic game implementation with user interactions, emphasizing conditional statements and randomization, ideas, and execution you've never seen before, I promise 🫶.
+4. **Rock Paper Scissors Project:** Classic game implementation featuring a user-friendly interface and exciting gameplay based on conditional statements and randomization.
    
 5. **Date Class Project:** A versatile date manipulation library for handling dates, calculating differences, and more.
    
