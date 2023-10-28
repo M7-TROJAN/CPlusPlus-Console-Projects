@@ -11,6 +11,7 @@ Welcome to my repository showcasing a collection of diverse C++ programming proj
 5. **Date Class Project:** A versatile date manipulation library for handling dates, calculating differences, and more.
 6. **Custom_String Class Project:** Extending C++ string class to create a custom_string class with additional functionalities.
 7. **My Own String Class Project:** Building a string class from scratch, covering string manipulation and memory management.
+8. **FreePalestine Project:**  A console application designed to display the Palestinian flag, symbolizing solidarity and support. This project serves as a visual representation and message of peace, unity, and support for Palestine. It showcases the flag using C++ console output, demonstrating a symbolic gesture within a programming context.
 
 ## Installation and Usage
 
