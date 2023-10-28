@@ -21,7 +21,7 @@ Welcome to my repository showcasing a collection of diverse C++ programming proj
 
 ## About the Author
 
-Hello, I'm [Mahmoud Mohamed](https://www.linkedin.com/in/mahmoud-mohamed-abd/), an enthusiastic C++ developer passionate about turning ideas into code. This repository reflects my commitment to continuous learning and hands-on programming experience.
+Hello, I'm [Mahmoud Mohamed](https://www.linkedin.com/in/mahmoud-mohamed-abd/), a passionate software developer passionate about turning ideas into code. This repository reflects my commitment to continuous learning and hands-on programming experience.
 
 ## very Important Note
 
