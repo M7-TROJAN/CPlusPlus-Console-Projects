@@ -1,9 +1,5 @@
 # Custom String Class (str.h)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/mattar740/CustomStringClass)
-![GitHub stars](https://img.shields.io/github/stars/mattar740/CustomStringClass)
-![GitHub forks](https://img.shields.io/github/forks/mattar740/CustomStringClass)
-
 The STR class is a custom implementation inspired by the standard string class in C++ with additional methods to manipulate and analyze strings. It provides various features for string manipulation, including concatenation, character case conversion, substring extraction, word count, and more. 
 This README.md file explains the features and usage of the STR class.
 
@@ -162,14 +158,6 @@ This Custom String Class project is a demonstration of string manipulation conce
 
 ## Very_Important_Note
 This Custom String Class project is a training exercise designed to demonstrate basic programming skills and concepts. It is not intended to be used as a replacement for the standard std::string class in real-world applications.
-
-## Acknowledgments
-
-I would like to express my heartfelt gratitude to my teacher, Mohammed Abu-Hadhoud, for his guidance, support, and inspiration throughout the development of this Custom String Class project. His dedication to teaching and commitment to helping his students succeed have been invaluable. Thank you, MR. Mohammed, for your unwavering encouragement and mentorship 🙏❤️.
-
-- Teacher: Mohammed Abu-Hadhoud
-- LinkedIn: [Mohammed Abu-Hadhoud](https://www.linkedin.com/in/abuhadhoud/)
-- Website: [Programming Advices](https://programmingadvices.com/)
 
 ## Author
 
